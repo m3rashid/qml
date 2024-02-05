@@ -41,7 +41,7 @@ netifaces==0.11.0
 oauthlib==3.2.0
 olefile==0.46
 packaging==21.3
-paramiko==2.9.3
+paramiko==3.4.0
 pdfarranger==1.8.2
 pexpect==4.8.0
 pikepdf==5.0.1+dfsg
