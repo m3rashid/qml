@@ -20,7 +20,7 @@ fasteners==0.14.1
 future==0.18.2
 html5lib==1.1
 httplib2==0.20.2
-idna==3.3
+idna==3.7
 img2pdf==0.4.2
 importlib-metadata==4.6.4
 jeepney==0.7.1
